@@ -1,0 +1,13 @@
+com\zjzx\controller\CityController.class
+com\zjzx\service\CityService.class
+com\zjzx\Xjzx_area9085.class
+com\zjzx\service\AreaService.class
+com\zjzx\service\MapService.class
+com\zjzx\serviceconfig\ActiveRecordConfig.class
+com\zjzx\controller\ProvincesController.class
+com\zjzx\serviceconfig\BeanConfiguration.class
+com\zjzx\service\ProvincesService.class
+com\zjzx\controller\AreaController.class
+com\zjzx\dao\AreaDao.class
+com\zjzx\dao\CityDao.class
+com\zjzx\dao\ProvinceDao.class
